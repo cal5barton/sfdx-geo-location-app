@@ -35,7 +35,7 @@ $RECYCLE.BIN/
 *.lnk
 
 #sfdx specifics
-.sfdx
+.sfdx/
 
 
 # End of https://www.gitignore.io/api/visualstudiocode,windows
